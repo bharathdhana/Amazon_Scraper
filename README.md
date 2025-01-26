@@ -3,10 +3,11 @@ A Python Project that uses selenium and BeautifulSoup to scrape data from Amazon
 
 #Requirements 
 
-Python 
-Selenium
-BeautifulSoup 
-WebDriver for Chrome or Firefox
+1. Python 
+2. Selenium
+3. BeautifulSoup 
+4. WebDriver for Chrome or Firefox
+   
 
 #Usage 
 1. Clone the Repository.
