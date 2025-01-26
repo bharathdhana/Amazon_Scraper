@@ -12,11 +12,13 @@ A Python Project that uses selenium and BeautifulSoup to scrape data from Amazon
 #Usage 
 1. Clone the Repository.
 2. Install the required packages.
+
    pip install requests beautifulsoup4 pandas selenium fake-useragent openpyxl
    
-3. Download the appropriate webdriver for your browser and place it in your path, or specify its location in the script.
-4. Edit the scrap.py script to include the URL of the Amazon page you want to scrape.
-5. Run the Script.
-   python scrap.py
+4. Download the appropriate webdriver for your browser and place it in your path, or specify its location in the script.
+5. Edit the scrap.py script to include the URL of the Amazon page you want to scrape.
+6. Run the Script.
+
+    python scrap.py
    
-6. Output of the script will generate a CSV (or) EXCEL (or) JSON file containing the extracted data. 
+8. Output of the script will generate a CSV (or) EXCEL (or) JSON file containing the extracted data. 
